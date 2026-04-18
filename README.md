@@ -15,7 +15,7 @@ portfolio/
 <body>
 
     <header>
-        <h1>Your Name</h1>
+        <h1>Mr Towheed</h1>
         <p>Web Developer | Python Programmer</p>
     </header>
 
@@ -44,11 +44,11 @@ portfolio/
 
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: your@email.com</p>
+        <p>Email: towheedhussain@gmail.com</p>
     </section>
 
     <footer>
-        <p>© 2026 Your Name</p>
+        <p>© 2026 towheed hussain</p>
     </footer>
 
     <script src="script.js"></script>
@@ -57,12 +57,12 @@ portfolio/
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: #f4f4f4;
+    background: #yellow with light orange shade;
 }
 
 header {
     background: #333;
-    color: white;
+    color: white with light orange;
     padding: 20px;
     text-align: center;
 }
