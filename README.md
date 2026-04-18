@@ -44,11 +44,11 @@ portfolio/
 
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: towheedhussain@gmail.com</p>
+        <p>Email:towheedhussain@gmail.com</p>
     </section>
 
     <footer>
-        <p>© 2026 towheed hussain</p>
+        <p>towheed hussain</p>
     </footer>
 
     <script src="script.js"></script>
@@ -57,7 +57,7 @@ portfolio/
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: #yellow with light orange shade;
+    background:yellow with light orange shade;
 }
 
 header {
